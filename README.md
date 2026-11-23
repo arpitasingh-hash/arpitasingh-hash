@@ -28,8 +28,8 @@
 - Improving programming and problem-solving skills.
 
 ## Connect With Me
-- LinkedIn: [My LinkedIn Profile](YOUR_LINKEDIN_URL)
-- Email: YOUR_COLLEGE_EMAIL
+- LinkedIn: https://www.linkedin.com/in/arpita-s-272a18417/
+- Email: 2601730094@krmu.edu.in
 
 
 <!--
